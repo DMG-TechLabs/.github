@@ -1,11 +1,15 @@
-## Hi there 👋
+# DMG TechLabs
 
+🌍 Based in: Thessaloniki <br>
+✉️ You can contact us at [dmg.techlabs@gmail.com](mailto:dmg.techlabs@gmail.com) <br>
+🖥️ Website: [To be made](http://localhost:80/)
 
+## Founders
 
-**Here are some ideas to get you started:**
+* Despoinidis Konstantinos ([@KDesp73](https://github.com/KDesp73))
+* Mokas Konstantinos ([@creatorkostas](https://github.com/creatorkostas))
+* Georgalis Thanasis ([@ThanasisGeorg](https://github.com/ThanasisGeorg))
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## Currently Working On
+
+* Movie Manager (Java)
