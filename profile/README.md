@@ -8,7 +8,7 @@
 
 * Despoinidis Konstantinos ([@KDesp73](https://github.com/KDesp73))
 * Mokas Konstantinos ([@creatorkostas](https://github.com/creatorkostas))
-* Georgalis Thanasis ([@ThanasisGeorg](https://github.com/ThanasisGeorg))
+* Georgalis Athanasios ([@ThanasisGeorg](https://github.com/ThanasisGeorg))
 
 ## Currently Working On
 
