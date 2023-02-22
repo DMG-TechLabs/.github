@@ -1,8 +1,8 @@
 # DMG TechLabs
 
-🌍 Based in: Thessaloniki <br>
+🌍 Based in Thessaloniki <br>
 ✉️ You can contact us at [dmg.techlabs@gmail.com](mailto:dmg.techlabs@gmail.com) <br>
-🖥️ Website: [To be made](http://localhost:80/)
+🖥️ Our [Website](http://localhost:80/)
 
 ## Founders
 
