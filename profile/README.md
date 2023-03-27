@@ -12,5 +12,5 @@
 
 ## Currently Working On
 
-* Movie Manager (Java)
-* Website for Movie Manager (HTML, CSS, JS)
+* Watchlist Wizard Updates (Java)
+* Text Based Game (C++)
