@@ -12,5 +12,4 @@
 
 ## Currently Working On
 
-* Watchlist Wizard Updates (Java)
-* Text Based Game (C++)
+* system-cloner (Python)
